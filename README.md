@@ -1,4 +1,4 @@
-# EHM-Players-Creator
+# EHM-Files-Editor
 - FR : Petit logiciel pour éditer les fichiers EHM facilement avec un support visuel. Il génère le fichier players.ehm en entier et calcul les ceilings pour vous !
 - EN : Little software to edit EHM files easily with visual support. It generate the entire players.ehm file and it calculate the ceilings for you !
 
