@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
@@ -70,7 +71,6 @@
     <Compile Include="Enums\CountryEnum.cs" />
     <Compile Include="Enums\LateralityEnum.cs" />
     <Compile Include="Enums\LeagueEnum.cs" />
-    <Compile Include="Enums\MonthEnum.cs" />
     <Compile Include="Enums\PlayerTypeEnum.cs" />
     <Compile Include="Enums\PositionEnum.cs" />
     <Compile Include="Enums\SizeEnum.cs" />
