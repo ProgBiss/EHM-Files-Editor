@@ -70,11 +70,38 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Devils d&apos;Albany.
+        /// </summary>
+        internal static string AlbanyDevils {
+            get {
+                return ResourceManager.GetString("AlbanyDevils", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Joueur offensivement balancé / Défenseur défensif.
         /// </summary>
         internal static string AllAroundForwardDefDef {
             get {
                 return ResourceManager.GetString("AllAroundForwardDefDef", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Ducks d&apos;Anaheim.
+        /// </summary>
+        internal static string AnaheimDucks {
+            get {
+                return ResourceManager.GetString("AnaheimDucks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Coyotes de l&apos;Arizona.
+        /// </summary>
+        internal static string ArizonaCoyotes {
+            get {
+                return ResourceManager.GetString("ArizonaCoyotes", resourceCulture);
             }
         }
         
@@ -88,6 +115,15 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Condors de Bakersfield.
+        /// </summary>
+        internal static string BakersfieldCondors {
+            get {
+                return ResourceManager.GetString("BakersfieldCondors", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Biélorussie.
         /// </summary>
         internal static string Belarus {
@@ -97,11 +133,74 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Senators de Binghamton.
+        /// </summary>
+        internal static string BinghamtonSenators {
+            get {
+                return ResourceManager.GetString("BinghamtonSenators", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Excellent espoir.
+        /// </summary>
+        internal static string BluechipProspect {
+            get {
+                return ResourceManager.GetString("BluechipProspect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Bruins de Boston.
+        /// </summary>
+        internal static string BostonBruins {
+            get {
+                return ResourceManager.GetString("BostonBruins", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Soundtigers de Bridgeport.
+        /// </summary>
+        internal static string BridgeportSoundtigers {
+            get {
+                return ResourceManager.GetString("BridgeportSoundtigers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Sabres de Buffalo.
+        /// </summary>
+        internal static string BuffaloSabres {
+            get {
+                return ResourceManager.GetString("BuffaloSabres", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Flames de Calgary.
+        /// </summary>
+        internal static string CalgaryFlames {
+            get {
+                return ResourceManager.GetString("CalgaryFlames", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Canada.
         /// </summary>
         internal static string Canada {
             get {
                 return ResourceManager.GetString("Canada", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Hurricanes de la Caroline.
+        /// </summary>
+        internal static string CarolinaHurricanes {
+            get {
+                return ResourceManager.GetString("CarolinaHurricanes", resourceCulture);
             }
         }
         
@@ -124,11 +223,83 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Checkers de Charlotte.
+        /// </summary>
+        internal static string CharlotteCheckers {
+            get {
+                return ResourceManager.GetString("CharlotteCheckers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à BlackHawks de Chicago.
+        /// </summary>
+        internal static string ChicagoBlackHawks {
+            get {
+                return ResourceManager.GetString("ChicagoBlackHawks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Wolves de Chicago.
+        /// </summary>
+        internal static string ChicagoWolves {
+            get {
+                return ResourceManager.GetString("ChicagoWolves", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Monsters de Cleveland.
+        /// </summary>
+        internal static string ClevelandMonsters {
+            get {
+                return ResourceManager.GetString("ClevelandMonsters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Avalanche du Colorado.
+        /// </summary>
+        internal static string ColoradoAvalanche {
+            get {
+                return ResourceManager.GetString("ColoradoAvalanche", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Blue Jackets de Columbus.
+        /// </summary>
+        internal static string ColumbusBlueJackets {
+            get {
+                return ResourceManager.GetString("ColumbusBlueJackets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Joueur important.
+        /// </summary>
+        internal static string CorePlayer {
+            get {
+                return ResourceManager.GetString("CorePlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à République Tchèque.
         /// </summary>
         internal static string Czech {
             get {
                 return ResourceManager.GetString("Czech", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Stars de Dallas.
+        /// </summary>
+        internal static string DallasStars {
+            get {
+                return ResourceManager.GetString("DallasStars", resourceCulture);
             }
         }
         
@@ -142,6 +313,33 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Défense.
+        /// </summary>
+        internal static string Defense {
+            get {
+                return ResourceManager.GetString("Defense", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Red Wings de Détroit.
+        /// </summary>
+        internal static string DetroitRedWings {
+            get {
+                return ResourceManager.GetString("DetroitRedWings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Oilers d&apos;Edmonton.
+        /// </summary>
+        internal static string EdmontonOilers {
+            get {
+                return ResourceManager.GetString("EdmontonOilers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Finlande.
         /// </summary>
         internal static string Finland {
@@ -151,11 +349,101 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p8.
+        /// </summary>
+        internal static string FiveFootEight {
+            get {
+                return ResourceManager.GetString("FiveFootEight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p11.
+        /// </summary>
+        internal static string FiveFootEleven {
+            get {
+                return ResourceManager.GetString("FiveFootEleven", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p5.
+        /// </summary>
+        internal static string FiveFootFive {
+            get {
+                return ResourceManager.GetString("FiveFootFive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p9.
+        /// </summary>
+        internal static string FiveFootNine {
+            get {
+                return ResourceManager.GetString("FiveFootNine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p7.
+        /// </summary>
+        internal static string FiveFootSeven {
+            get {
+                return ResourceManager.GetString("FiveFootSeven", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p6.
+        /// </summary>
+        internal static string FiveFootSix {
+            get {
+                return ResourceManager.GetString("FiveFootSix", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 5p10.
+        /// </summary>
+        internal static string FiveFootTen {
+            get {
+                return ResourceManager.GetString("FiveFootTen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Panthers de la Floride.
+        /// </summary>
+        internal static string FloridaPanthers {
+            get {
+                return ResourceManager.GetString("FloridaPanthers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à France.
         /// </summary>
         internal static string France {
             get {
                 return ResourceManager.GetString("France", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Joueur de franchise.
+        /// </summary>
+        internal static string FranchisePlayer {
+            get {
+                return ResourceManager.GetString("FranchisePlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Espoir normal.
+        /// </summary>
+        internal static string FutureRegular {
+            get {
+                return ResourceManager.GetString("FutureRegular", resourceCulture);
             }
         }
         
@@ -183,6 +471,42 @@ namespace EHM_Files_Editor.Resources {
         internal static string Goon {
             get {
                 return ResourceManager.GetString("Goon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Griffins de Grand Rapid.
+        /// </summary>
+        internal static string GrandRapidGriffins {
+            get {
+                return ResourceManager.GetString("GrandRapidGriffins", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Wolfpacks d&apos;Hartford.
+        /// </summary>
+        internal static string HartfordWolfpacks {
+            get {
+                return ResourceManager.GetString("HartfordWolfpacks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Bears d&apos;Hershey.
+        /// </summary>
+        internal static string HersheyBears {
+            get {
+                return ResourceManager.GetString("HersheyBears", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Wild d&apos;Iowa.
+        /// </summary>
+        internal static string IowaWild {
+            get {
+                return ResourceManager.GetString("IowaWild", resourceCulture);
             }
         }
         
@@ -241,6 +565,114 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Phantoms de Lehigh Valley.
+        /// </summary>
+        internal static string LehighValleyPhantoms {
+            get {
+                return ResourceManager.GetString("LehighValleyPhantoms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Long terme.
+        /// </summary>
+        internal static string LongShot {
+            get {
+                return ResourceManager.GetString("LongShot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Kings de Los Angeles.
+        /// </summary>
+        internal static string LosAngelesKings {
+            get {
+                return ResourceManager.GetString("LosAngelesKings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Moose du Manitoba.
+        /// </summary>
+        internal static string ManitobaMoose {
+            get {
+                return ResourceManager.GetString("ManitobaMoose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Admirals de Milwaukee.
+        /// </summary>
+        internal static string MilwaukeeAdmirals {
+            get {
+                return ResourceManager.GetString("MilwaukeeAdmirals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Wild du Minnesota.
+        /// </summary>
+        internal static string MinnesotaWild {
+            get {
+                return ResourceManager.GetString("MinnesotaWild", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Joueur AHL.
+        /// </summary>
+        internal static string MinorLeaguer {
+            get {
+                return ResourceManager.GetString("MinorLeaguer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Canadiens de Montréal.
+        /// </summary>
+        internal static string MontrealCanadiens {
+            get {
+                return ResourceManager.GetString("MontrealCanadiens", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Prédateurs de Nashville.
+        /// </summary>
+        internal static string NashvillePredators {
+            get {
+                return ResourceManager.GetString("NashvillePredators", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Devils du New Jersey.
+        /// </summary>
+        internal static string NewJerseyDevils {
+            get {
+                return ResourceManager.GetString("NewJerseyDevils", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Islanders de New York.
+        /// </summary>
+        internal static string NewYorkIslanders {
+            get {
+                return ResourceManager.GetString("NewYorkIslanders", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Rangers de New York.
+        /// </summary>
+        internal static string NewYorkRangers {
+            get {
+                return ResourceManager.GetString("NewYorkRangers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à NHL.
         /// </summary>
         internal static string NHL {
@@ -268,6 +700,24 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Attaque.
+        /// </summary>
+        internal static string Offense {
+            get {
+                return ResourceManager.GetString("Offense", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Reign d&apos;Ontario.
+        /// </summary>
+        internal static string OntarioReign {
+            get {
+                return ResourceManager.GetString("OntarioReign", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Autres.
         /// </summary>
         internal static string Others {
@@ -277,11 +727,47 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Sénateurs d&apos;Ottawa.
+        /// </summary>
+        internal static string OttawaSenators {
+            get {
+                return ResourceManager.GetString("OttawaSenators", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Flyers de Philadelphie.
+        /// </summary>
+        internal static string PhiladelphiaFlyers {
+            get {
+                return ResourceManager.GetString("PhiladelphiaFlyers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Défenseur physique / Joueur offensivement balancé.
         /// </summary>
         internal static string PhysDefAllAroundForward {
             get {
                 return ResourceManager.GetString("PhysDefAllAroundForward", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Physique.
+        /// </summary>
+        internal static string Physical {
+            get {
+                return ResourceManager.GetString("Physical", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Penguins de Pittsburgh.
+        /// </summary>
+        internal static string PittsburghPenguins {
+            get {
+                return ResourceManager.GetString("PittsburghPenguins", resourceCulture);
             }
         }
         
@@ -322,6 +808,33 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Bruins de Providence.
+        /// </summary>
+        internal static string ProvidenceBruins {
+            get {
+                return ResourceManager.GetString("ProvidenceBruins", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Joueur régulier.
+        /// </summary>
+        internal static string RegularPlayer {
+            get {
+                return ResourceManager.GetString("RegularPlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Repos.
+        /// </summary>
+        internal static string Rest {
+            get {
+                return ResourceManager.GetString("Rest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Droitier.
         /// </summary>
         internal static string RightHanded {
@@ -340,11 +853,164 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Americans de Rochester.
+        /// </summary>
+        internal static string RochesterAmericans {
+            get {
+                return ResourceManager.GetString("RochesterAmericans", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Icehogs de Rockford.
+        /// </summary>
+        internal static string RockfordIcehogs {
+            get {
+                return ResourceManager.GetString("RockfordIcehogs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Russie.
         /// </summary>
         internal static string Russia {
             get {
                 return ResourceManager.GetString("Russia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Rampage de San Antonio.
+        /// </summary>
+        internal static string SanAntonioRampage {
+            get {
+                return ResourceManager.GetString("SanAntonioRampage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Gulls de San Diego.
+        /// </summary>
+        internal static string SanDiegoGulls {
+            get {
+                return ResourceManager.GetString("SanDiegoGulls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Barracuda de San Jose.
+        /// </summary>
+        internal static string SanJoseBarracuda {
+            get {
+                return ResourceManager.GetString("SanJoseBarracuda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Sharks de San Jose.
+        /// </summary>
+        internal static string SanJoseSharks {
+            get {
+                return ResourceManager.GetString("SanJoseSharks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p.
+        /// </summary>
+        internal static string SixFoot {
+            get {
+                return ResourceManager.GetString("SixFoot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p8.
+        /// </summary>
+        internal static string SixFootEight {
+            get {
+                return ResourceManager.GetString("SixFootEight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p5.
+        /// </summary>
+        internal static string SixFootFive {
+            get {
+                return ResourceManager.GetString("SixFootFive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p4.
+        /// </summary>
+        internal static string SixFootFour {
+            get {
+                return ResourceManager.GetString("SixFootFour", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p9.
+        /// </summary>
+        internal static string SixFootNine {
+            get {
+                return ResourceManager.GetString("SixFootNine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p1.
+        /// </summary>
+        internal static string SixFootOne {
+            get {
+                return ResourceManager.GetString("SixFootOne", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p7.
+        /// </summary>
+        internal static string SixFootSeven {
+            get {
+                return ResourceManager.GetString("SixFootSeven", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p6.
+        /// </summary>
+        internal static string SixFootSix {
+            get {
+                return ResourceManager.GetString("SixFootSix", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p10.
+        /// </summary>
+        internal static string SixFootTen {
+            get {
+                return ResourceManager.GetString("SixFootTen", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p3.
+        /// </summary>
+        internal static string SixFootThree {
+            get {
+                return ResourceManager.GetString("SixFootThree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à 6p2.
+        /// </summary>
+        internal static string SixFootTwo {
+            get {
+                return ResourceManager.GetString("SixFootTwo", resourceCulture);
             }
         }
         
@@ -376,6 +1042,42 @@ namespace EHM_Files_Editor.Resources {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Thunderbirds de Springfiled.
+        /// </summary>
+        internal static string SpringfieldThunderbirds {
+            get {
+                return ResourceManager.GetString("SpringfieldThunderbirds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Icecaps de St-Johns.
+        /// </summary>
+        internal static string StJohnsIcecaps {
+            get {
+                return ResourceManager.GetString("StJohnsIcecaps", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Blues de St-Louis.
+        /// </summary>
+        internal static string StLouisBlues {
+            get {
+                return ResourceManager.GetString("StLouisBlues", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Heat de Stockton.
+        /// </summary>
+        internal static string StocktonHeat {
+            get {
+                return ResourceManager.GetString("StocktonHeat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Suède.
         /// </summary>
         internal static string Sweden {
@@ -390,6 +1092,69 @@ namespace EHM_Files_Editor.Resources {
         internal static string Switzerland {
             get {
                 return ResourceManager.GetString("Switzerland", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Crunch de Syracuse.
+        /// </summary>
+        internal static string SyracuseCrunch {
+            get {
+                return ResourceManager.GetString("SyracuseCrunch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Lightning de Tampa Bay.
+        /// </summary>
+        internal static string TampaBayLightning {
+            get {
+                return ResourceManager.GetString("TampaBayLightning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Stars du Texas.
+        /// </summary>
+        internal static string TexasStars {
+            get {
+                return ResourceManager.GetString("TexasStars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Maple Leafs de Toronto.
+        /// </summary>
+        internal static string TorontoMapleLeafs {
+            get {
+                return ResourceManager.GetString("TorontoMapleLeafs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Marlies de Toronto.
+        /// </summary>
+        internal static string TorontoMarlies {
+            get {
+                return ResourceManager.GetString("TorontoMarlies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Appât de transaction.
+        /// </summary>
+        internal static string TradeBait {
+            get {
+                return ResourceManager.GetString("TradeBait", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Roadrunners de Tucson.
+        /// </summary>
+        internal static string TucsonRoadrunners {
+            get {
+                return ResourceManager.GetString("TucsonRoadrunners", resourceCulture);
             }
         }
         
@@ -417,6 +1182,51 @@ namespace EHM_Files_Editor.Resources {
         internal static string USA {
             get {
                 return ResourceManager.GetString("USA", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Comets d&apos;Utica.
+        /// </summary>
+        internal static string UticaComets {
+            get {
+                return ResourceManager.GetString("UticaComets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Canucks de Vancouver.
+        /// </summary>
+        internal static string VancouverCanucks {
+            get {
+                return ResourceManager.GetString("VancouverCanucks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Capitals de Washington.
+        /// </summary>
+        internal static string WashingtonCapitals {
+            get {
+                return ResourceManager.GetString("WashingtonCapitals", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Penguins de Wilkes-Barre/Scranton.
+        /// </summary>
+        internal static string WilkesBarreScrantonPenguins {
+            get {
+                return ResourceManager.GetString("WilkesBarreScrantonPenguins", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Jets de Winnipeg.
+        /// </summary>
+        internal static string WinnipegJets {
+            get {
+                return ResourceManager.GetString("WinnipegJets", resourceCulture);
             }
         }
     }

@@ -237,4 +237,274 @@
   <data name="TwoWayForwardDefDef" xml:space="preserve">
     <value>Attaquant polyvalent / Défenseur défensif</value>
   </data>
+  <data name="BluechipProspect" xml:space="preserve">
+    <value>Excellent espoir</value>
+  </data>
+  <data name="CorePlayer" xml:space="preserve">
+    <value>Joueur important</value>
+  </data>
+  <data name="Defense" xml:space="preserve">
+    <value>Défense</value>
+  </data>
+  <data name="FranchisePlayer" xml:space="preserve">
+    <value>Joueur de franchise</value>
+  </data>
+  <data name="FutureRegular" xml:space="preserve">
+    <value>Espoir normal</value>
+  </data>
+  <data name="LongShot" xml:space="preserve">
+    <value>Long terme</value>
+  </data>
+  <data name="MinorLeaguer" xml:space="preserve">
+    <value>Joueur AHL</value>
+  </data>
+  <data name="Offense" xml:space="preserve">
+    <value>Attaque</value>
+  </data>
+  <data name="Physical" xml:space="preserve">
+    <value>Physique</value>
+  </data>
+  <data name="RegularPlayer" xml:space="preserve">
+    <value>Joueur régulier</value>
+  </data>
+  <data name="Rest" xml:space="preserve">
+    <value>Repos</value>
+  </data>
+  <data name="TradeBait" xml:space="preserve">
+    <value>Appât de transaction</value>
+  </data>
+  <data name="AlbanyDevils" xml:space="preserve">
+    <value>Devils d'Albany</value>
+  </data>
+  <data name="AnaheimDucks" xml:space="preserve">
+    <value>Ducks d'Anaheim</value>
+  </data>
+  <data name="ArizonaCoyotes" xml:space="preserve">
+    <value>Coyotes de l'Arizona</value>
+  </data>
+  <data name="BakersfieldCondors" xml:space="preserve">
+    <value>Condors de Bakersfield</value>
+  </data>
+  <data name="BinghamtonSenators" xml:space="preserve">
+    <value>Senators de Binghamton</value>
+  </data>
+  <data name="BostonBruins" xml:space="preserve">
+    <value>Bruins de Boston</value>
+  </data>
+  <data name="BridgeportSoundtigers" xml:space="preserve">
+    <value>Soundtigers de Bridgeport</value>
+  </data>
+  <data name="BuffaloSabres" xml:space="preserve">
+    <value>Sabres de Buffalo</value>
+  </data>
+  <data name="CalgaryFlames" xml:space="preserve">
+    <value>Flames de Calgary</value>
+  </data>
+  <data name="CarolinaHurricanes" xml:space="preserve">
+    <value>Hurricanes de la Caroline</value>
+  </data>
+  <data name="CharlotteCheckers" xml:space="preserve">
+    <value>Checkers de Charlotte</value>
+  </data>
+  <data name="ChicagoBlackHawks" xml:space="preserve">
+    <value>BlackHawks de Chicago</value>
+  </data>
+  <data name="ChicagoWolves" xml:space="preserve">
+    <value>Wolves de Chicago</value>
+  </data>
+  <data name="ClevelandMonsters" xml:space="preserve">
+    <value>Monsters de Cleveland</value>
+  </data>
+  <data name="ColoradoAvalanche" xml:space="preserve">
+    <value>Avalanche du Colorado</value>
+  </data>
+  <data name="ColumbusBlueJackets" xml:space="preserve">
+    <value>Blue Jackets de Columbus</value>
+  </data>
+  <data name="DallasStars" xml:space="preserve">
+    <value>Stars de Dallas</value>
+  </data>
+  <data name="DetroitRedWings" xml:space="preserve">
+    <value>Red Wings de Détroit</value>
+  </data>
+  <data name="EdmontonOilers" xml:space="preserve">
+    <value>Oilers d'Edmonton</value>
+  </data>
+  <data name="FiveFootEight" xml:space="preserve">
+    <value>5p8</value>
+  </data>
+  <data name="FiveFootEleven" xml:space="preserve">
+    <value>5p11</value>
+  </data>
+  <data name="FiveFootFive" xml:space="preserve">
+    <value>5p5</value>
+  </data>
+  <data name="FiveFootNine" xml:space="preserve">
+    <value>5p9</value>
+  </data>
+  <data name="FiveFootSeven" xml:space="preserve">
+    <value>5p7</value>
+  </data>
+  <data name="FiveFootSix" xml:space="preserve">
+    <value>5p6</value>
+  </data>
+  <data name="FiveFootTen" xml:space="preserve">
+    <value>5p10</value>
+  </data>
+  <data name="FloridaPanthers" xml:space="preserve">
+    <value>Panthers de la Floride</value>
+  </data>
+  <data name="GrandRapidGriffins" xml:space="preserve">
+    <value>Griffins de Grand Rapid</value>
+  </data>
+  <data name="HartfordWolfpacks" xml:space="preserve">
+    <value>Wolfpacks d'Hartford</value>
+  </data>
+  <data name="HersheyBears" xml:space="preserve">
+    <value>Bears d'Hershey</value>
+  </data>
+  <data name="IowaWild" xml:space="preserve">
+    <value>Wild d'Iowa</value>
+  </data>
+  <data name="LehighValleyPhantoms" xml:space="preserve">
+    <value>Phantoms de Lehigh Valley</value>
+  </data>
+  <data name="LosAngelesKings" xml:space="preserve">
+    <value>Kings de Los Angeles</value>
+  </data>
+  <data name="ManitobaMoose" xml:space="preserve">
+    <value>Moose du Manitoba</value>
+  </data>
+  <data name="MilwaukeeAdmirals" xml:space="preserve">
+    <value>Admirals de Milwaukee</value>
+  </data>
+  <data name="MinnesotaWild" xml:space="preserve">
+    <value>Wild du Minnesota</value>
+  </data>
+  <data name="MontrealCanadiens" xml:space="preserve">
+    <value>Canadiens de Montréal</value>
+  </data>
+  <data name="NashvillePredators" xml:space="preserve">
+    <value>Prédateurs de Nashville</value>
+  </data>
+  <data name="NewJerseyDevils" xml:space="preserve">
+    <value>Devils du New Jersey</value>
+  </data>
+  <data name="NewYorkIslanders" xml:space="preserve">
+    <value>Islanders de New York</value>
+  </data>
+  <data name="NewYorkRangers" xml:space="preserve">
+    <value>Rangers de New York</value>
+  </data>
+  <data name="OntarioReign" xml:space="preserve">
+    <value>Reign d'Ontario</value>
+  </data>
+  <data name="OttawaSenators" xml:space="preserve">
+    <value>Sénateurs d'Ottawa</value>
+  </data>
+  <data name="PhiladelphiaFlyers" xml:space="preserve">
+    <value>Flyers de Philadelphie</value>
+  </data>
+  <data name="PittsburghPenguins" xml:space="preserve">
+    <value>Penguins de Pittsburgh</value>
+  </data>
+  <data name="ProvidenceBruins" xml:space="preserve">
+    <value>Bruins de Providence</value>
+  </data>
+  <data name="RochesterAmericans" xml:space="preserve">
+    <value>Americans de Rochester</value>
+  </data>
+  <data name="RockfordIcehogs" xml:space="preserve">
+    <value>Icehogs de Rockford</value>
+  </data>
+  <data name="SanAntonioRampage" xml:space="preserve">
+    <value>Rampage de San Antonio</value>
+  </data>
+  <data name="SanDiegoGulls" xml:space="preserve">
+    <value>Gulls de San Diego</value>
+  </data>
+  <data name="SanJoseBarracuda" xml:space="preserve">
+    <value>Barracuda de San Jose</value>
+  </data>
+  <data name="SanJoseSharks" xml:space="preserve">
+    <value>Sharks de San Jose</value>
+  </data>
+  <data name="SixFoot" xml:space="preserve">
+    <value>6p</value>
+  </data>
+  <data name="SixFootEight" xml:space="preserve">
+    <value>6p8</value>
+  </data>
+  <data name="SixFootFive" xml:space="preserve">
+    <value>6p5</value>
+  </data>
+  <data name="SixFootFour" xml:space="preserve">
+    <value>6p4</value>
+  </data>
+  <data name="SixFootNine" xml:space="preserve">
+    <value>6p9</value>
+  </data>
+  <data name="SixFootOne" xml:space="preserve">
+    <value>6p1</value>
+  </data>
+  <data name="SixFootSeven" xml:space="preserve">
+    <value>6p7</value>
+  </data>
+  <data name="SixFootSix" xml:space="preserve">
+    <value>6p6</value>
+  </data>
+  <data name="SixFootTen" xml:space="preserve">
+    <value>6p10</value>
+  </data>
+  <data name="SixFootThree" xml:space="preserve">
+    <value>6p3</value>
+  </data>
+  <data name="SixFootTwo" xml:space="preserve">
+    <value>6p2</value>
+  </data>
+  <data name="SpringfieldThunderbirds" xml:space="preserve">
+    <value>Thunderbirds de Springfiled</value>
+  </data>
+  <data name="StJohnsIcecaps" xml:space="preserve">
+    <value>Icecaps de St-Johns</value>
+  </data>
+  <data name="StLouisBlues" xml:space="preserve">
+    <value>Blues de St-Louis</value>
+  </data>
+  <data name="StocktonHeat" xml:space="preserve">
+    <value>Heat de Stockton</value>
+  </data>
+  <data name="SyracuseCrunch" xml:space="preserve">
+    <value>Crunch de Syracuse</value>
+  </data>
+  <data name="TampaBayLightning" xml:space="preserve">
+    <value>Lightning de Tampa Bay</value>
+  </data>
+  <data name="TexasStars" xml:space="preserve">
+    <value>Stars du Texas</value>
+  </data>
+  <data name="TorontoMapleLeafs" xml:space="preserve">
+    <value>Maple Leafs de Toronto</value>
+  </data>
+  <data name="TorontoMarlies" xml:space="preserve">
+    <value>Marlies de Toronto</value>
+  </data>
+  <data name="TucsonRoadrunners" xml:space="preserve">
+    <value>Roadrunners de Tucson</value>
+  </data>
+  <data name="UticaComets" xml:space="preserve">
+    <value>Comets d'Utica</value>
+  </data>
+  <data name="VancouverCanucks" xml:space="preserve">
+    <value>Canucks de Vancouver</value>
+  </data>
+  <data name="WashingtonCapitals" xml:space="preserve">
+    <value>Capitals de Washington</value>
+  </data>
+  <data name="WilkesBarreScrantonPenguins" xml:space="preserve">
+    <value>Penguins de Wilkes-Barre/Scranton</value>
+  </data>
+  <data name="WinnipegJets" xml:space="preserve">
+    <value>Jets de Winnipeg</value>
+  </data>
 </root>
